@@ -1,4 +1,4 @@
 ﻿Татаренко Илья Евгеньевич 
 Б9121-09.03.02
 Практическая работа №1
-https://github.com/Ilya12322/project_1
+https://ilya12322.github.io/project_1/
